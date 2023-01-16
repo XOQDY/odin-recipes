@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(56, 47, 47);
+}
+
+h1,
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+body {
+    margin: auto;
+    width: 740px; 
+    padding: 30px;
+    font-family: 'Lexend Deca', sans-serif; 
+    color: #cf3d18;    
+}
